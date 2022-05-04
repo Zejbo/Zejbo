@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... I can cook minute rice in 58 seconds
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
