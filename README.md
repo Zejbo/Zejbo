@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I can cook minute rice in 58 seconds
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zejbo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=DD2727)](https://git.io/streak-stats) 
