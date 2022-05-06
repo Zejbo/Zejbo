@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Magma note editor and my secret visual novel
-- 🌱 I’m currently learning ... CSS =, JAVASCRIPT and unity
+- 🌱 I’m currently learning ... CSS , JAVASCRIPT and Unity
 - 👯 I’m looking to collaborate on ... things I would use or play
 - 🤔 I’m looking for help with ... cooking
 - 💬 Ask me about ... Anime, videogames, books, creative writing and manga
