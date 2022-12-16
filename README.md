@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Magma note editor and my secret visual novel
+- 🔭 I’m currently working on ... Coding combat and myself
 - 🌱 I’m currently learning ... CSS , JAVASCRIPT and Unity
 - 👯 I’m looking to collaborate on ... things I would use or play
 - 🤔 I’m looking for help with ... cooking
